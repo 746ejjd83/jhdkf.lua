@@ -1,3 +1,1 @@
-local Key {
-Key = "Free Version"
-}
+"Free Version"

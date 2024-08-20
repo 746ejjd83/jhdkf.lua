@@ -1,4 +1,4 @@
-{
+return {
     "MRNOOBYLOL3",
     "TPS_GL0RY",
     "Dahoodpro237",
@@ -13,5 +13,4 @@
     "Dahoodcash700",
     "Dahoodtrader8",
     "Dahoodseller_2"
-
 }

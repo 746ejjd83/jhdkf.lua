@@ -21,5 +21,5 @@ return {
     "ov5or4",
     "ov5or13",
     "AppleWareTestingAcc",
-    "gamerisgamingbro"
+    "Gamerisgamingbro"
 }

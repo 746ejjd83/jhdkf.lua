@@ -5,5 +5,6 @@ return {
        "hwid3",
        "hwid",
        "hwid2",
+       "d",
        "d"
 }

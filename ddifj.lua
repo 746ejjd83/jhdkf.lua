@@ -1,4 +1,3 @@
 return {
-    "hwidforexamplenotrobloxone",
-        "HWID_537185509"
+            "HWID_537185509"
 }

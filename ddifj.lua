@@ -4,5 +4,6 @@ return {
        "3",
        "hwid3",
        "hwid",
-       "hwid2"
+       "hwid2",
+       "d"
 }

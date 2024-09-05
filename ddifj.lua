@@ -1,3 +1,4 @@
 return {
-       "d"
+       "d",
+       "newhwid"
 }

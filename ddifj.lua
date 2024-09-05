@@ -1,3 +1,4 @@
 return {
-       "hwid1"
+       "hwid1",
+       "d"
 }

@@ -3,5 +3,6 @@ return {
    "d2a7ea94-ec61-4739-9a47-4bc65c8d8a53",
    "1",
    "hwid1",
-   "hwid2"
+   "hwid2",
+   "hwidtest"
 }

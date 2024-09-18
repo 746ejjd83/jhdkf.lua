@@ -1,3 +1,3 @@
 return {
-   "KEY_8YSZUCTFCFV8ZRD15N60"
+
 }

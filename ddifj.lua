@@ -1,3 +1,1 @@
-return {
-   "F2F24EFB-1BB6-4B6E-BB68-AC8B6609DCC9"
-}
+return "Artemis_Is_BestOAT"
